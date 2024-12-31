@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<aplicativos>
+    <aplicativo>
+        <nome>VS INFORMATICA</nome>
+        <icone>src/icons/calculadora.png</icone>
+        <caminhoJar>src/apps/Controle.jar</caminhoJar>
+    </aplicativo>
+    <aplicativo>
+        <nome>Bloco de Notas</nome>
+        <icone>src/icons/bloco.png</icone>
+        <caminhoJar>launcher.apps/notepad.jar</caminhoJar>
+    </aplicativo>
+    <aplicativo>
+        <nome>WhatsApp</nome>
+        <icone>src/icons/wts.png</icone>
+        <caminhoJar>launcher.apps/browser.jar</caminhoJar>
+    </aplicativo>
+    
+</aplicativos>
+
+
